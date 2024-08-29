@@ -15,6 +15,10 @@ Feel free to explore my repositories and projects. I'm always open to new ideas 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vs316&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vs316&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/vachan316?theme=transparent&font=milonga&ext=heatmap)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vs316&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
