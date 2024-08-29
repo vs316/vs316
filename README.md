@@ -14,20 +14,20 @@ Feel free to explore my repositories and projects. I'm always open to new ideas 
 # 📊 GitHub Stats:
 ![vs316's Stats](https://github-readme-stats.vercel.app/api?username=vs316&theme=gotham&show_icons=true&hide_border=true&count_private=false) <br/>
 ![vs316's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vs316&theme=gotham&hide_border=true)<br/>
-![vs316's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vs316&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![vs316's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vs316&theme=gotham&show_icons=true&hide_border=true&layout=compact&margin=4)
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vachan316?theme=transparent&font=milonga&ext=heatmap)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vs316&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vs316&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vs316&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vs316&limit=5&theme=gotham&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=vs316&icon=0&color=9)](https://visitcount.itsvg.in) -->
